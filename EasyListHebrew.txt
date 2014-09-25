@@ -105,6 +105,7 @@
 ||ynet.co.il^*/ynetbanneradmin/
 ||ynet.hiro.co.il/crossdomain.xml
 ||ynetshops.co.il/article/showbanner2/
+||ynet.co.il/images/ynet_video_buffering_splash.swf
 !-nrg-!
 ||nrg.co.il/cache/banners
 ||nrg.co.il/images/banners
